@@ -1,1 +1,3 @@
 # Health-Insurance-Cross-Sell-Prediction
+
+I took on the task of expanding our insurance services by predicting which of our current Health Insurance policyholders might be interested in adding Vehicle Insurance. We started by thoroughly exploring our customer data, understanding the target variable "Response," and identifying class imbalances. After selecting a suitable model and addressing class imbalance, our model revealed key factors influencing customer interest, allowing us to optimize our marketing strategies. This predictive model empowers us to reach the right customers with the right message, enhancing our business's success and value to stakeholders.
